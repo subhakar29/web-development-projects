@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First assignment</title>
+        
+
+    </head>
+    <body>
+        <header>
+            <nav>
+            <h1> CMR Admin</h1>
+                <ul>
+                    <li><a href="">Contacts</a></li>
+                    <li><a href="">Orders</a></li>
+                    <li><a href="">Task</a></li>
+                    <li><a href="">Evaluation copies</a></li>
+                </ul>
+            </nav>
+        </header> 
+        <section>       
+        <h1>Personal Information</h1>
+                <figure>
+                    <img src="https://images.app.goo.gl/81hMQGNvNk1eazQw6" width="200" height="200">
+                    <figcaption>Subhakar</figcaption>
+                </figure>
+                <p><b>Name :</b>  Subhakar<br>   <b>DOB :</b>  29 Feb 2000<br>    <b>Branch :</b>  CSE <br>    <b>Year :</b>  3 <br>
+                <b>E-mail :<a href="123@gmail.com" > 123@gmail.com</a></b></p>
+        </section>        
+               
+        <section>
+            <h1>Customer Information</h1>
+            <p>
+                Ram <br> &nbsp;&nbsp; nitte Unviversity<br> &nbsp;&nbsp; E-mail : <a href="">ram@gmail.com</a>
+                <br>
+                Suresh :<br> &nbsp;&nbsp; Mangalore University<br> &nbsp;&nbsp; E-mail : <a href="">suresh@gmail.com</a>
+                <br>
+                
+            </p>
+        </section>
+
+        <footer>
+            @Copyright
+        </footer>
+
+
+    </body>
+
+
+</html>
