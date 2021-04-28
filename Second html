@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel(M1- Assignment 2)</title>
+
+    <h1>Share Your Travels</h1>
+    <nav>
+        <h2> New York-Central Park</h2>
+            <ul>
+                <li><a href="">Description</a></li>
+                <li><a href="">Photos</a></li>
+                <li><a href="">Review</a></li>
+                
+            </ul>
+        
+
+    </nav>
+</head>
+<body>
+    <br>
+    <section>
+        <h2>Description</h2>
+        <p>
+            <b>Photos by Randy Connolly</b><br>
+            <br>Photo of a pond in Central Park in New-York was taken on October 22,2011.
+            <figure>
+                <img src="https://images.app.goo.gl/5gZdDxjdFMqmg4q39" width="500" height="500">
+                <figcaption>Pond in Central Park</figcaption>
+            </figure>
+            Share: 
+        </p>
+
+    </section>
+    <br>
+    <section>
+        <h2>Related Photos</h2>
+        <img src="https://images.app.goo.gl/dHjGeJ95RFcavy157" width="300" height="300"">
+        <img src="https://images.app.goo.gl/pa3RhiBHi68JEUmT7" width="300" height="300">
+        <img src="https://images.app.goo.gl/AzabdmnYr17oaxsq9" width="300" height="300">
+    </section>
+    <br>
+    <section>
+        <h2>Reviews</h2>
+        <p>
+            By Ricardo on September 12,2015 <br>
+            Easy on HDR buddy 
+            <hr>
+            By Susan on April 2,2015 <br>
+            I love Central Park
+            <hr>
+            By Jack on June 1,2015 <br>
+            Beautiful
+            <hr>
+        </p>
+    </section>
+    <footer>
+        <a href="">Home|</a><a href="">Browse|</a><a href="">Search</a>
+        <br>@Copyright
+    </footer>
+</body>
+</html>
