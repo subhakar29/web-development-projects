@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(250, 190, 174);
+    
+}
+
+section h1{
+    font-size: 50px;
+    border: 15px solid white;
+    padding: 10px;
+    margin: 20px;
+    text-shadow: 2px 2px red;
+}
+
+p.p1{
+    font-size: larger;
+}
+
+p#intro{
+    font-style:oblique;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: justify;
+    width: 500px;
+    line-height: 1.5;
+    background-color: white;
+}
+
+section li{
+    font-size: larger;
+}
+
+section ul#skill{
+    list-style: none;
+    border: 5px solid black;
+    width: 30%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 1px 1px;
+    border-radius:50%
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+
+  .fa-github {
+    background: black;
+    color: white;
+  }
