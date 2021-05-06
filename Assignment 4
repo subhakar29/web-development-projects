@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="css/resume.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    
+    <style>
+        body{
+            background-image: url('image/pic2.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: top right;
+            background-size: 200px 200px;
+    
+        }
+    </style>
+    
+
+    <section>
+        <h1 style="color: white; background-color: black; width: fit-content;">My Resume</h1>
+        <h3 style="width: 450px;">Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</h3>
+        <p id="intro">My name is Subhakar, currently persuing my Bachelor of Engineering at A J Institute of Engineering and Technology. 
+        </p>
+    </section>
+    
+    <br>
+    
+    <section>
+        <h2>EDUCATION</h2>
+        <p class="p1">B.E(6th sem):&emsp; A J Institute of Engineering and Technology
+        <br>12th:&emsp; DR.N.S.A.M PU COLLEGE
+        <br>10th:&emsp; ST MARY'S ENG MEDIUM SCHOOL  
+        </p>
+    </section>
+
+    <br>
+
+    <section>
+        <h2>SKILLS</h2>
+            <ul id="skill">
+                <li>C</li>
+                <li>C++</li>
+                <li>HTML/CSS</li>
+                <li>Java</li>
+                <li>Python</li>
+        </ul>
+    </section>
+
+    <br>
+
+    <section>
+        <h2>PROJECTS</h2>
+            <ul>
+                <li>Parking management system</li>
+                <li>Restaurant management system</li>
+            </ul>
+    </section>
+
+    <br>
+    
+    <section>
+        <h2>INTERESTS</h2>
+            <ul>
+                <li>Travelling</li>
+                <li>Programming</li>
+                <li>Machine Learning</li>
+            
+        </ul> 
+    </section>
+
+    <br>
+
+</body>
+
+<footer>
+    &copy; Copyright
+
+</footer>
+</html>
